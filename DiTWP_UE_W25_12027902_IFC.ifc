@@ -1,7 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('ViewDefinition[DesignTransferView]'),'2;1');
-FILE_NAME('DiTWP_UE_W25_12027902_IFC.ifc','2026-01-05T21:12:50+01:00',(''),(''),'IfcOpenShell 0.8.3-post1','Bonsai 0.8.3-post1','Nobody');
+FILE_NAME('DiTWP_UE_W25_12027902_IFC.ifc','2026-01-09T13:30:43+01:00',(''),(''),'IfcOpenShell 0.8.3-post1','Bonsai 0.8.3-post1','Nobody');
 FILE_SCHEMA(('IFC4'));
 ENDSEC;
 DATA;
